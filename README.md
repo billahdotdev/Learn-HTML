@@ -8,6 +8,6 @@ HTML (HyperText Markup Language) is a coding language used to create web pages. 
 
 02. Tag: A markup construct in HTML used to define elements within a document, enclosed by angle brackets, such as <p> for paragraphs.
 
-03. Element: The combination of an opening tag, content, and a closing tag, defining a specific part of a webpage, such as paragraphs (\<p>), headings (\<h1> to \<h6>), and images (\<img>).
+03. Element: The combination of an opening tag, content, and a closing tag, defining a specific part of a webpage, such as paragraphs (<p>), headings (<h1> to <h6>), and images (<img>).
 
 04. 
