@@ -30,4 +30,4 @@ HTML (HyperText Markup Language) is a coding language used to create web pages. 
 
 13. Table: An HTML element used to organize data into rows and columns, defined by the <table> tag, with rows (\<tr>), cells (\<td>), and header cells (\<th>).
 
-14. Form: An HTML element used to create interactive forms for user input, defined by the <form> tag, with input fields (<input>) and other form elements.
+14. Form: An HTML element used to create interactive forms for user input, defined by the <form> tag, with input fields (\<input>) and other form elements.
