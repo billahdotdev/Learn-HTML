@@ -56,3 +56,5 @@ HTML (HyperText Markup Language) is a coding language used to create web pages. 
 
 26. Inline Style: CSS styles applied directly to an HTML element using the style attribute, such as \<div style="color: red;">.
 
+27. 
+
