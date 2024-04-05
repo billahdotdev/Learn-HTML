@@ -43,3 +43,6 @@ HTML (HyperText Markup Language) is a coding language used to create web pages. 
 19. Attribute Value: The value assigned to an attribute within an HTML tag, such as "blue" in \<div style="color: blue;">.
 
 20. Comment: An HTML comment is a piece of text within an HTML document that is not displayed in the browser but can be used to provide notes or explanations to developers, defined by the \<!-- --> syntax.
+    
+21. DOCTYPE: The document type declaration (\<!DOCTYPE html>) specifies the version of HTML used in a document and helps browsers render web pages correctly.
+
