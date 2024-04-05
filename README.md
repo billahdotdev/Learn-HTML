@@ -7,3 +7,5 @@ HTML (HyperText Markup Language) is a coding language used to create web pages. 
 01. HTML (HyperText Markup Language): The standard markup language for creating web pages and web applications.
 
 02. Tag: A markup construct in HTML used to define elements within a document, enclosed by angle brackets, such as <p> for paragraphs.
+
+03. 
