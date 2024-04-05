@@ -54,5 +54,5 @@ HTML (HyperText Markup Language) is a coding language used to create web pages. 
 
 25. HTML Entity: Special codes represent reserved characters in HTML, such as \&lt; for \< and \&amp; for &.
 
-26. 
+26. Inline Style: CSS styles applied directly to an HTML element using the style attribute, such as \<div style="color: red;">.
 
