@@ -25,3 +25,5 @@ HTML (HyperText Markup Language) is a coding language used to create web pages. 
 10. Link: An HTML element used to create hyperlinks to other web pages or resources, defined by the \<a> (anchor) tag, with the href attribute specifying the destination URL.
 
 11. Image: An HTML element used to embed images within a document, defined by the \<img> tag, with the src attribute specifying the image source.
+
+12. List: An HTML element used to create lists, including ordered lists (\<ol>), unordered lists (\<ul>), and list items (\<li>).
