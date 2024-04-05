@@ -16,4 +16,4 @@ HTML (HyperText Markup Language) is a coding language used to create web pages. 
 
 6. Head: The portion of an HTML document that contains metadata and links to external resources, including the <head> element.
 
-7. 
+7. Body: The portion of an HTML document that contains the content visible to users, including text, images, and other media, enclosed within the <body> element.
