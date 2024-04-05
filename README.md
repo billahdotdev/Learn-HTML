@@ -56,5 +56,5 @@ HTML (HyperText Markup Language) is a coding language used to create web pages. 
 
 26. Inline Style: CSS styles applied directly to an HTML element using the style attribute, such as \<div style="color: red;">.
 
-27. 
+27. Block vs. Inline Elements: Block-level elements start on a new line and take up the full width available, while inline elements only take up as much width as necessary and do not start on a new line.
 
