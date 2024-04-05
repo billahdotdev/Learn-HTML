@@ -20,4 +20,4 @@ HTML (HyperText Markup Language) is a coding language used to create web pages. 
 
 8. Heading: An HTML element used to define headings or titles within a document, ranging from \<h1> (the highest level) to \<h6> (the lowest level).
 
-9. Paragraph: An HTML element used to define paragraphs of text within a document, enclosed by <p> tags.
+9. Paragraph: An HTML element used to define paragraphs of text within a document, enclosed by \<p> tags.
