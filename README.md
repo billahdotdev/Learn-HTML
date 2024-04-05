@@ -52,7 +52,7 @@ HTML (HyperText Markup Language) is a coding language used to create web pages. 
 
 24. Empty Element: An HTML element that does not require closing tags, such as \<img>, \<br>, and \<input>, as they do not contain any content between opening and closing tags.
 
-25. HTML Entity: Special codes used to represent reserved characters in HTML, such as \&lt; for \< and \&amp; for &.
+25. HTML Entity: Special codes represent reserved characters in HTML, such as \&lt; for \< and \&amp; for &.
 
 26. 
 
