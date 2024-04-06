@@ -60,7 +60,7 @@ HTML (HyperText Markup Language) is a coding language used to create web pages. 
 
 28. Nesting: Placing one HTML element inside another, creates a hierarchical structure, such as placing a \<p> element inside a \<div> element.
 
-29. 
+29. Semantic Markup: Using HTML elements that convey the meaning of the content, improving accessibility and search engine optimization.
 30. 
 31. 
 
