@@ -85,6 +85,7 @@ HTML (HyperText Markup Language) is a coding language used to create web pages. 
 40. Whitespace Collapsing: In HTML, consecutive spaces, tabs, and newline characters are collapsed into a single space when rendered by the browser, except within elements styled with CSS to preserve whitespace.
 
 41. Escape Sequences: Special sequences of characters used to represent reserved characters or non-printable characters within HTML, such as &nbsp; for a non-breaking space or &quot; for a double quote.
+
 42. 
     
 
