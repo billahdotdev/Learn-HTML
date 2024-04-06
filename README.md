@@ -76,6 +76,6 @@ HTML (HyperText Markup Language) is a coding language used to create web pages. 
 
 36. Accessibility: Ensuring that web content is accessible to users with disabilities, achieved by using semantic HTML, providing alternative text for images (alt attribute), and following accessibility guidelines such as the Web Content Accessibility Guidelines (WCAG).
 
-37. 
+37. SEO (Search Engine Optimization): Optimizing web pages to improve their visibility and ranking in search engine results, achieved by using relevant keywords, descriptive titles, and semantic HTML markup.
 
 
