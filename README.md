@@ -72,6 +72,6 @@ HTML (HyperText Markup Language) is a coding language used to create web pages. 
 
 34. HTML5: The latest version of HTML, which introduced new elements, attributes, and APIs to enhance web development, including \<video>, \<audio>, \<canvas>, and \<svg> elements.
 
-35. 
+35. Responsive Design: Designing web pages that adapt and respond to different screen sizes and devices, achieved using techniques like media queries and flexible layouts in HTML and CSS.
 
 
