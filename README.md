@@ -78,6 +78,6 @@ HTML (HyperText Markup Language) is a coding language used to create web pages. 
 
 37. SEO (Search Engine Optimization): Optimizing web pages to improve their visibility and ranking in search engine results, achieved by using relevant keywords, descriptive titles, and semantic HTML markup.
 
-38. 
+38. Deprecated Elements: HTML elements that are no longer recommended for use in modern web development due to being outdated or replaced by newer standards, such as \<font>, \<center>, and \<strike>.
 
 
