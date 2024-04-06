@@ -89,6 +89,7 @@ HTML (HyperText Markup Language) is a coding language used to create web pages. 
 42. inline Frames (iframes): An HTML element (<iframe>) used to embed another HTML document within the current document. This is commonly used for embedding videos, maps, or other external content.
 
 43. Meta Tags: HTML <meta> tags provide metadata about the HTML document, such as character encoding (\<meta charset="utf-8">), viewport settings (\<meta name="viewport" content="width=device-width, initial-scale=1.0">), or specifying keywords and description for search engines.
+
 44. 
 
     
