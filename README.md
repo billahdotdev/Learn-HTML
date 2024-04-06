@@ -58,3 +58,5 @@ HTML (HyperText Markup Language) is a coding language used to create web pages. 
 
 27. Block vs. Inline Elements: Block-level elements start on a new line and take up the full width available, while inline elements only take up as much width as necessary and do not start on a new line.
 
+28. 
+
