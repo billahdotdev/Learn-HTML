@@ -64,7 +64,7 @@ HTML (HyperText Markup Language) is a coding language used to create web pages. 
 
 30. Validation: Checking HTML code for errors and ensuring it conforms to the standards set by the W3C (World Wide Web Consortium).
 
-31. 
+31. Whitespace: The space, tab, or newline characters used for formatting and readability within HTML documents. While whitespace is typically ignored by web browsers, it can impact the layout and readability of your HTML code.
 32. 
 
 
