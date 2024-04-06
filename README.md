@@ -74,4 +74,6 @@ HTML (HyperText Markup Language) is a coding language used to create web pages. 
 
 35. Responsive Design: Designing web pages that adapt and respond to different screen sizes and devices, achieved using techniques like media queries and flexible layouts in HTML and CSS.
 
+36. 
+
 
