@@ -70,4 +70,6 @@ HTML (HyperText Markup Language) is a coding language used to create web pages. 
 
 33. Semantic Structure: Organizing content using semantic HTML elements such as \<header>, \<footer>, \<nav>, \<main>, and \<article>, which provide meaning and context to different sections of a webpage.
 
+34. HTML5: The latest version of HTML, which introduced new elements, attributes, and APIs to enhance web development, including \<video>, \<audio>, \<canvas>, and \<svg> elements.
+
 
