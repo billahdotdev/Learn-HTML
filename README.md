@@ -2,7 +2,7 @@
 
 \- HTML (HyperText Markup Language) is a coding language used to create web pages. It tells web browsers how to structure and display content like text, images, and links. It's essential for building websites.
 
-***// Why should I learn HTML?***
+# Why should I learn HTML?
 
 \-HTML is like the ABCs of web development. It's the basic language you need to create web pages. Without it, you can't even start building a website. So, if you're serious about becoming a web developer, learning HTML is a must.
 
