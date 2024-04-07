@@ -29,7 +29,7 @@
 
 **2. Tag:** A markup construct in HTML used to define elements within a document, enclosed by angle brackets, such as \<p> for paragraphs.
 
-3. Element: The combination of an opening tag, content, and a closing tag, defining a specific part of a webpage, such as paragraphs (\<p>), headings (\<h1> to \<h6>), and images (\<img>).
+**3.** Element: The combination of an opening tag, content, and a closing tag, defining a specific part of a webpage, such as paragraphs (\<p>), headings (\<h1> to \<h6>), and images (\<img>).
 
 4. Attribute: Additional information is provided within the opening tag of an element to modify its behavior or provide metadata, such as src for image source or href for hyperlink reference.
 
