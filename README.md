@@ -23,7 +23,7 @@ HTML is like the ABCs of web development. It's the basic language you need to cr
                       </body>
                       </html>
 
-**Familiarize yourself with HTML** (no worry! even if you do not understand them now!)
+***Familiarize yourself with HTML*** (no worry! even if you do not understand them now!)***
 
 **1. HTML (HyperText Markup Language):** The standard markup language for creating web pages and web applications.
 
