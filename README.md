@@ -8,20 +8,20 @@ HTML is like the ABCs of web development. It's the basic language you need to cr
 
 ***What does HTML code look like?***
 
-                                    <!DOCTYPE html>
-                                    <html lang="en">
-                                    <head>
-                                        <meta charset="UTF-8">
-                                        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-                                        <title>My First Web Page</title>
-                                    </head>
-                                    <body>
-                                        <h1>Hello, World!</h1>
-                                        <p>This is a paragraph.</p>
-                                        <img src="image.jpg" alt="An image">
-                                        <a href="https://www.example.com">Click here</a> to visit Example.com.
-                                    </body>
-                                    </html>
+                      <!DOCTYPE html>
+                      <html lang="en">
+                      <head>
+                          <meta charset="UTF-8">
+                          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                          <title>My First Web Page</title>
+                      </head>
+                      <body>
+                          <h1>Hello, World!</h1>
+                          <p>This is a paragraph.</p>
+                          <img src="image.jpg" alt="An image">
+                          <a href="https://www.example.com">Click here</a> to visit Example.com.
+                      </body>
+                      </html>
 
 **Familiarize yourself with HTML** (no worry! even if you do not understand them now!)
 
