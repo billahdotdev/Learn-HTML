@@ -8,7 +8,7 @@
 
 # What does HTML code look like?
 
-                  **<!DOCTYPE html>
+                  <!DOCTYPE html>
                       <html lang="en">
                       <head>
                           <meta charset="UTF-8">
@@ -21,7 +21,7 @@
                           <img src="image.jpg" alt="An image">
                           <a href="https://www.example.com">Click here</a> to visit Example.com.
                       </body>
-                      </html>**
+                      </html>
 
 # *Familiarize yourself with HTML* 
 ## *(no worry! even if you do not understand them now!)*
