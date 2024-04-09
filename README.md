@@ -122,6 +122,213 @@
 
 # Let's Examine an HTML Code: 
 
+                                 <!DOCTYPE html> <!-- Declares the document type -->
+<html lang="en"> <!-- Specifies the language of the document -->
+
+<head>
+    <meta charset="UTF-8"> <!-- Sets the character encoding to UTF-8 -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- Sets the viewport for responsive design -->
+    <title>My Web Page</title> <!-- Sets the title of the web page -->
+    
+    <!-- Linking to an external CSS file -->
+    <link rel="stylesheet" href="styles.css">
+    
+    <!-- Embedding CSS styles directly within the HTML document -->
+    <style>
+        body {
+            font-family: Arial, sans-serif; /* Setting the font family for the entire document */
+            background-color: #f0f0f0; /* Setting the background color */
+        }
+        h1 {
+            color: blue; /* Changing the color of the h1 headings */
+        }
+    </style>
+    
+    <!-- Including JavaScript -->
+    <script src="script.js"></script>
+    
+    <!-- Inline JavaScript -->
+    <script>
+        function greet() {
+            alert('Hello, world!'); /* Function to greet users with an alert */
+        }
+    </script>
+</head>
+
+<body>
+    <!-- Header Section -->
+    <header>
+        <h1>Welcome to My Website</h1> <!-- Heading for the website title -->
+        <nav>
+            <!-- Navigation Links -->
+            <ul>
+                <li><a href="#home">Home</a></li> <!-- Link to the home section -->
+                <li><a href="#about">About</a></li> <!-- Link to the about section -->
+                <li><a href="#contact">Contact</a></li> <!-- Link to the contact section -->
+            </ul>
+        </nav>
+    </header>
+    
+    <!-- Main Content Section -->
+    <main>
+        <!-- Article Section -->
+        <article>
+            <h2>About Us</h2> <!-- Heading for the about section -->
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vitae fermentum nunc. Integer vitae orci vel odio vestibulum tempus.</p> <!-- Placeholder text for the about content -->
+        </article>
+        
+        <!-- Sidebar Section -->
+        <aside>
+            <h2>Latest News</h2> <!-- Heading for the latest news section -->
+            <p>Stay tuned for updates!</p> <!-- Placeholder text for the latest news content -->
+        </aside>
+    </main>
+    
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2024 My Website. All rights reserved.</p> <!-- Copyright information -->
+    </footer>
+
+    <!-- Embedding an image -->
+    <img src="image.jpg" alt="A beautiful image"> <!-- Embedding an image with alt text -->
+
+    <!-- Creating a form -->
+    <form action="/submit" method="post">
+        <label for="name">Name:</label> <!-- Label for the name input field -->
+        <input type="text" id="name" name="name" required> <!-- Text input for name with required attribute -->
+        <label for="email">Email:</label> <!-- Label for the email input field -->
+        <input type="email" id="email" name="email" required> <!-- Email input with required attribute -->
+        <button type="submit">Submit</button> <!-- Submit button -->
+    </form>
+
+    <!-- Including an iframe for embedding external content -->
+    <iframe src="https://www.example.com" title="External Content" width="400" height="300"></iframe> <!-- Embedding an external content -->
+
+    <!-- Adding a table -->
+    <table>
+        <caption>Monthly Sales Report</caption> <!-- Caption for the table -->
+        <thead>
+            <tr>
+                <th>Date</th> <!-- Table header for date -->
+                <th>Product</th> <!-- Table header for product -->
+                <th>Quantity</th> <!-- Table header for quantity -->
+                <th>Revenue</th> <!-- Table header for revenue -->
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>2024-01-01</td> <!-- Table data for date -->
+                <td>Product A</td> <!-- Table data for product -->
+                <td>100</td> <!-- Table data for quantity -->
+                <td>$1000</td> <!-- Table data for revenue -->
+            </tr>
+            <!-- Additional rows here -->
+        </tbody>
+    </table>
+
+    <!-- Adding semantic HTML5 elements for better structure -->
+    <section>
+        <h2>Featured Products</h2> <!-- Heading for featured products section -->
+        <!-- Product listings here -->
+    </section>
+    
+    <!-- Using HTML5 audio and video elements for multimedia content -->
+    <audio controls>
+        <source src="music.mp3" type="audio/mpeg"> <!-- Audio source with controls -->
+        Your browser does not support the audio element.
+    </audio>
+
+    <video controls>
+        <source src="video.mp4" type="video/mp4"> <!-- Video source with controls -->
+        Your browser does not support the video element.
+    </video>
+
+    <!-- Adding SVG graphics -->
+    <svg width="100" height="100">
+        <circle cx="50" cy="50" r="40" fill="red" /> <!-- Circle SVG element -->
+    </svg>
+
+    <!-- Adding a canvas for dynamic graphics -->
+    <canvas id="myCanvas" width="200" height="100"></canvas> <!-- Canvas for dynamic graphics -->
+
+    <!-- Adding a progress bar -->
+    <progress value="70" max="100"></progress> <!-- Progress bar -->
+
+    <!-- Adding a meter element -->
+    <meter value="0.7"></meter> <!-- Meter element -->
+
+    <!-- Adding a details and summary for collapsible content -->
+    <details>
+        <summary>Click to reveal more</summary> <!-- Summary for collapsible content -->
+        <p>This is more information that can be revealed.</p> <!-- Content to be revealed -->
+    </details>
+
+    <!-- Adding a time element for date and time -->
+    <p>Document last updated: <time datetime="2024-04-08T09:00">April 8, 2024</time></p> <!-- Time element for date and time -->
+
+    <!-- Adding a datalist for pre-defined options in input -->
+    <label for="browser">Choose your browser:</label> <!-- Label for datalist -->
+    <input list="browsers" id="browser" name="browser"> <!-- Input field with datalist -->
+    <datalist id="browsers">
+        <option value="Chrome"> <!-- Pre-defined option for Chrome -->
+        <option value="Firefox"> <!-- Pre-defined option for Firefox -->
+        <option value="Edge"> <!-- Pre-defined option for Edge -->
+        <option value="Safari"> <!-- Pre-defined option for Safari -->
+    </datalist>
+
+    <!-- Adding a summary for table headers -->
+    <table>
+        <caption>Monthly Sales Report</caption> <!-- Caption for the table -->
+        <thead>
+            <tr>
+                <th><abbr title="Date">Date</abbr></th> <!-- Table header abbreviation for date -->
+                <th><abbr title="Product">Product</abbr></th> <!-- Table header abbreviation for product -->
+                <th><abbr title="Quantity">Qty</abbr></th> <!-- Table header abbreviation for quantity -->
+                <th><abbr title="Revenue">Rev</abbr></th> <!-- Table header abbreviation for revenue -->
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>2024-01-01</td> <!-- Table data for date -->
+                <td>Product A</td> <!-- Table data for product -->
+                <td>100</td> <!-- Table data for quantity -->
+                <td>$1000</td> <!-- Table data for revenue -->
+            </tr>
+            <!-- Additional rows here -->
+        </tbody>
+    </table>
+
+    <!-- Adding a summary for figure elements -->
+    <figure>
+        <img src="image.jpg" alt="A beautiful image"> <!-- Image within a figure element -->
+        <figcaption>A caption for the image.</figcaption> <!-- Caption for the image -->
+    </figure>
+
+    <!-- Adding a keygen for generating cryptographic keys -->
+    <label for="key">Generate a key:</label> <!-- Label for keygen -->
+    <keygen id="key" name="key" challenge="random challenge string"> <!-- Keygen for generating cryptographic keys -->
+
+    <!-- Adding a mark element for highlighting text -->
+    <p>This is <mark>highlighted</mark> text.</p> <!-- Mark element for highlighting text -->
+
+    <!-- Adding a dialog for interactive prompts -->
+    <dialog open> <!-- Dialog box -->
+        <p>This is a dialog box.</p> <!-- Content within the dialog box -->
+        <button>Close</button> <!-- Close button for the dialog box -->
+    </dialog>
+
+    <!-- Adding a nav element for navigation links -->
+    <nav>
+        <ul>
+            <li><a href="#home">Home</a></li> <!-- Link to the home section -->
+            <li><a href="#about">About</a></li> <!-- Link to the about section -->
+            <li><a href="#contact">Contact</a></li> <!-- Link to the contact section -->
+        </ul>
+    </nav>
+
+</body>
+
+</html>
 
 
     
