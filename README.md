@@ -47,7 +47,7 @@
 
 ### *11. Image:* An HTML element used to embed images within a document, defined by the \<img> tag, with the src attribute specifying the image source.
 
-12. List: An HTML element used to create lists, including ordered lists (\<ol>), unordered lists (\<ul>), and list items (\<li>).
+*12. List:* An HTML element used to create lists, including ordered lists (\<ol>), unordered lists (\<ul>), and list items (\<li>).
 
 13. Table: An HTML element used to organize data into rows and columns, defined by the <table> tag, with rows (\<tr>), cells (\<td>), and header cells (\<th>).
 
