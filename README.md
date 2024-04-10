@@ -53,7 +53,7 @@
 
 *14. Form:* An HTML element used to create interactive forms for user input, defined by the <form> tag, with input fields (\<input>) and other form elements.
 
-15. Semantic HTML: HTML elements that provide meaning and structure to the content, such as \<header>, \<footer>, \<nav>, \<article>, \<section>, and \<aside>.
+*15. Semantic HTML:* HTML elements that provide meaning and structure to the content, such as \<header>, \<footer>, \<nav>, \<article>, \<section>, and \<aside>.
 
 16. Div: A generic container element used to group and style content, often used for layout purposes, defined by the \<div> tag.
 
