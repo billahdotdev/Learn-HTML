@@ -77,7 +77,7 @@
 
 *26. Inline Style:* CSS styles applied directly to an HTML element using the style attribute, such as \<div style="color: red;">.
 
-27. Block vs. Inline Elements: Block-level elements start on a new line and take up the full width available, while inline elements only take up as much width as necessary and do not start on a new line.
+*27. Block vs. Inline Elements:* Block-level elements start on a new line and take up the full width available, while inline elements only take up as much width as necessary and do not start on a new line.
 
 28. Nesting: Placing one HTML element inside another, creates a hierarchical structure, such as placing a \<p> element inside a \<div> element.
 
