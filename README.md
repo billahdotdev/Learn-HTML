@@ -55,7 +55,7 @@
 
 ### *15. Semantic HTML:* HTML elements that provide meaning and structure to the content, such as \<header>, \<footer>, \<nav>, \<article>, \<section>, and \<aside>.
 
-*16. Div:* A generic container element used to group and style content, often used for layout purposes, defined by the \<div> tag.
+### *16. Div:* A generic container element used to group and style content, often used for layout purposes, defined by the \<div> tag.
 
 *17. Span:* A generic inline container element used to apply styles or mark up a specific portion of text within a larger block of content, defined by the \<span> tag.
 
