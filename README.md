@@ -73,7 +73,7 @@
 
 ### *24. Empty Element:* An HTML element that does not require closing tags, such as \<img>, \<br>, and \<input>, as they do not contain any content between opening and closing tags.
 
-*25. HTML Entity:* Special codes represent reserved characters in HTML, such as \&lt; for \< and \&amp; for &.
+### *25. HTML Entity:* Special codes represent reserved characters in HTML, such as \&lt; for \< and \&amp; for &.
 
 *26. Inline Style:* CSS styles applied directly to an HTML element using the style attribute, such as \<div style="color: red;">.
 
