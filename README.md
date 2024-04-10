@@ -79,7 +79,7 @@
 
 ### *27. Block vs. Inline Elements:* Block-level elements start on a new line and take up the full width available, while inline elements only take up as much width as necessary and do not start on a new line.
 
-*28. Nesting: Placing one HTML element inside another, creates a hierarchical structure, such as placing a \<p> element inside a \<div> element.
+*28. Nesting:* Placing one HTML element inside another, creates a hierarchical structure, such as placing a \<p> element inside a \<div> element.
 
 *29. Semantic Markup: Using HTML elements that convey the meaning of the content, improving accessibility and search engine optimization.
 
