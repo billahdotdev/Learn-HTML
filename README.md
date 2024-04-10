@@ -59,7 +59,7 @@
 
 ### *17. Span:* A generic inline container element used to apply styles or mark up a specific portion of text within a larger block of content, defined by the \<span> tag.
 
-*18. Inline vs. Block Elements:* Inline elements, like \<span> and \<a>, do not start on a new line and only take up as much width as necessary, while block elements, like \<div> and \<p>, start on a new line and take up the full width available.
+### *18. Inline vs. Block Elements:* Inline elements, like \<span> and \<a>, do not start on a new line and only take up as much width as necessary, while block elements, like \<div> and \<p>, start on a new line and take up the full width available.
 
 *19. Attribute Value:* The value assigned to an attribute within an HTML tag, such as "blue" in \<div style="color: blue;">.
 
