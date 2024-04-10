@@ -61,7 +61,7 @@
 
 ### *18. Inline vs. Block Elements:* Inline elements, like \<span> and \<a>, do not start on a new line and only take up as much width as necessary, while block elements, like \<div> and \<p>, start on a new line and take up the full width available.
 
-*19. Attribute Value:* The value assigned to an attribute within an HTML tag, such as "blue" in \<div style="color: blue;">.
+### *19. Attribute Value:* The value assigned to an attribute within an HTML tag, such as "blue" in \<div style="color: blue;">.
 
 *20. Comment:* An HTML comment is a piece of text within an HTML document that is not displayed in the browser but can be used to provide notes or explanations to developers, defined by the \<!-- --> syntax.
     
