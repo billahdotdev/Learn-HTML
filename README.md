@@ -83,7 +83,7 @@
 
 ### *29. Semantic Markup:* Using HTML elements that convey the meaning of the content, improving accessibility and search engine optimization.
 
-*30. Validation:* Checking HTML code for errors and ensuring it conforms to the standards set by the W3C (World Wide Web Consortium).
+### *30. Validation:* Checking HTML code for errors and ensuring it conforms to the standards set by the W3C (World Wide Web Consortium).
 
 31. Whitespace: The space, tab, or newline characters used for formatting and readability within HTML documents. While whitespace is typically ignored by web browsers, it can impact the layout and readability of your HTML code.
 
