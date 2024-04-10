@@ -69,7 +69,7 @@
 
 *22. Metadata:* Information about the HTML document that is not displayed on the page itself, such as the document's character encoding (\<meta charset="utf-8">) or viewport settings (\<meta name="viewport" content="width=device-width, initial-scale=1.0">).
 
-23. Anchor: Another term for a hyperlink, created using the \<a> tag.
+*23. Anchor:* Another term for a hyperlink, created using the \<a> tag.
 
 24. Empty Element: An HTML element that does not require closing tags, such as \<img>, \<br>, and \<input>, as they do not contain any content between opening and closing tags.
 
