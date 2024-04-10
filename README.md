@@ -65,7 +65,7 @@
 
 ### *20. Comment:* An HTML comment is a piece of text within an HTML document that is not displayed in the browser but can be used to provide notes or explanations to developers, defined by the \<!-- --> syntax.
     
-21. DOCTYPE: The document type declaration (\<!DOCTYPE html>) specifies the version of HTML used in a document and helps browsers render web pages correctly.
+*21. DOCTYPE:* The document type declaration (\<!DOCTYPE html>) specifies the version of HTML used in a document and helps browsers render web pages correctly.
 
 22. Metadata: Information about the HTML document that is not displayed on the page itself, such as the document's character encoding (\<meta charset="utf-8">) or viewport settings (\<meta name="viewport" content="width=device-width, initial-scale=1.0">).
 
