@@ -93,7 +93,7 @@
 
 ### *34. HTML5:* The latest version of HTML, which introduced new elements, attributes, and APIs to enhance web development, including \<video>, \<audio>, \<canvas>, and \<svg> elements.
 
-*35. Responsive Design:* Designing web pages that adapt and respond to different screen sizes and devices, achieved using techniques like media queries and flexible layouts in HTML and CSS.
+### *35. Responsive Design:* Designing web pages that adapt and respond to different screen sizes and devices, achieved using techniques like media queries and flexible layouts in HTML and CSS.
 
 36. Accessibility: Ensuring that web content is accessible to users with disabilities, achieved by using semantic HTML, providing alternative text for images (alt attribute), and following accessibility guidelines such as the Web Content Accessibility Guidelines (WCAG).
 
