@@ -85,7 +85,7 @@
 
 ### *30. Validation:* Checking HTML code for errors and ensuring it conforms to the standards set by the W3C (World Wide Web Consortium).
 
-31. Whitespace: The space, tab, or newline characters used for formatting and readability within HTML documents. While whitespace is typically ignored by web browsers, it can impact the layout and readability of your HTML code.
+*31. Whitespace:* The space, tab, or newline characters used for formatting and readability within HTML documents. While whitespace is typically ignored by web browsers, it can impact the layout and readability of your HTML code.
 
 32. Escape Characters: Special characters in HTML that have a predefined meaning, such as \< and > for tags. To display these characters as text rather than interpreting them as HTML, you can use escape characters like \&lt; and \&gt;.
 
