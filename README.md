@@ -103,7 +103,7 @@
 
 ### *39. Cross-browser Compatibility:* Ensuring that web pages look and function consistently across different web browsers, achieved by testing and optimizing HTML, CSS, and JavaScript code for compatibility with popular browsers like Chrome, Firefox, Safari, and Edge.
 
-*40. Whitespace Collapsing:* In HTML, consecutive spaces, tabs, and newline characters are collapsed into a single space when rendered by the browser, except within elements styled with CSS to preserve whitespace.
+### *40. Whitespace Collapsing:* In HTML, consecutive spaces, tabs, and newline characters are collapsed into a single space when rendered by the browser, except within elements styled with CSS to preserve whitespace.
 
 41. Escape Sequences: Special sequences of characters used to represent reserved characters or non-printable characters within HTML, such as &nbsp; for a non-breaking space or &quot; for a double quote.
 
