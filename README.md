@@ -99,7 +99,7 @@
 
 ### *37. SEO (Search Engine Optimization):* Optimizing web pages to improve their visibility and ranking in search engine results, achieved by using relevant keywords, descriptive titles, and semantic HTML markup.
 
-*38. Deprecated Elements:* HTML elements that are no longer recommended for use in modern web development due to being outdated or replaced by newer standards, such as \<font>, \<center>, and \<strike>.
+### *38. Deprecated Elements:* HTML elements that are no longer recommended for use in modern web development due to being outdated or replaced by newer standards, such as \<font>, \<center>, and \<strike>.
 
 *39. Cross-browser Compatibility:* Ensuring that web pages look and function consistently across different web browsers, achieved by testing and optimizing HTML, CSS, and JavaScript code for compatibility with popular browsers like Chrome, Firefox, Safari, and Edge.
 
