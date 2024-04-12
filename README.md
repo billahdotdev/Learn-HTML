@@ -87,7 +87,7 @@
 
 ### *31. Whitespace:* The space, tab, or newline characters used for formatting and readability within HTML documents. While web browsers typically ignore whitespace, it can impact the layout and readability of your HTML code.
 
-### *32. Escape Characters:* Special characters in HTML that have a predefined meaning, such as \< and > for tags. To display these characters as text rather than interpreting them as HTML, you can use escape characters like \&lt; and \&gt;.
+### *32. Escape Characters:* Special characters in HTML with predefined meanings, such as \< and > for tags. To display these characters as text rather than interpreting them as HTML, you can use escape characters like \&lt; and \&gt;.
 
 ### *33. Semantic Structure:* Organizing content using semantic HTML elements such as \<header>, \<footer>, \<nav>, \<main>, and \<article>, which provide meaning and context to different sections of a webpage.
 
