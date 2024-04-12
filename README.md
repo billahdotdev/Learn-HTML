@@ -95,7 +95,7 @@
 
 ### *35. Responsive Design:* Designing web pages that adapt and respond to different screen sizes and devices, achieved using techniques like media queries and flexible layouts in HTML and CSS.
 
-*36. Accessibility:* Ensuring that web content is accessible to users with disabilities, achieved by using semantic HTML, providing alternative text for images (alt attribute), and following accessibility guidelines such as the Web Content Accessibility Guidelines (WCAG).
+### *36. Accessibility:* Ensuring that web content is accessible to users with disabilities, achieved by using semantic HTML, providing alternative text for images (alt attribute), and following accessibility guidelines such as the Web Content Accessibility Guidelines (WCAG).
 
 *37. SEO (Search Engine Optimization):* Optimizing web pages to improve their visibility and ranking in search engine results, achieved by using relevant keywords, descriptive titles, and semantic HTML markup.
 
