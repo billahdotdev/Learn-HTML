@@ -33,7 +33,7 @@
 
 ### *4. Attribute:* Additional information is provided within the opening tag of an element to modify its behavior or provide metadata, such as src for image source or href for hyperlink reference.
 
-### *5. Document:* A web page created using HTML, typically consisting of a combination of elements structured within a hierarchical format.
+### *5. Document:* A web page created using HTML, typically combining elements structured within a hierarchical format.
 
 ### *6. Head:* The portion of an HTML document that contains metadata and links to external resources, including the <head> element.
 
