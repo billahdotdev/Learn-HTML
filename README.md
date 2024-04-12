@@ -101,7 +101,7 @@
 
 *38. Deprecated Elements:* HTML elements that are no longer recommended for use in modern web development due to being outdated or replaced by newer standards, such as \<font>, \<center>, and \<strike>.
 
-39. Cross-browser Compatibility: Ensuring that web pages look and function consistently across different web browsers, achieved by testing and optimizing HTML, CSS, and JavaScript code for compatibility with popular browsers like Chrome, Firefox, Safari, and Edge.
+*39. Cross-browser Compatibility:* Ensuring that web pages look and function consistently across different web browsers, achieved by testing and optimizing HTML, CSS, and JavaScript code for compatibility with popular browsers like Chrome, Firefox, Safari, and Edge.
 
 40. Whitespace Collapsing: In HTML, consecutive spaces, tabs, and newline characters are collapsed into a single space when rendered by the browser, except within elements styled with CSS to preserve whitespace.
 
