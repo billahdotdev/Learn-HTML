@@ -331,6 +331,15 @@
                 </html>
 
 # test
+I'm passionate about Javascript and web technologies. Before the pandemic,
+ I was just a struggling entrepreneur in the clothing industry.
+ 'Clothes Logic' is a company where I hustled as a rainmaker.
+ My business had its ups and downs, which was stressful, but
+ I learned something new daily. During the pandemic,
+ I decided that need to bring my passion into 
+ the business. That is why nowadays I play 
+ two roles in my real-life game.
+
                 
 
 
