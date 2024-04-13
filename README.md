@@ -338,7 +338,7 @@ I'm passionate about Javascript and web technologies. Before the pandemic,
  I learned something new daily. During the pandemic,
  I decided that need to bring my passion into 
  the business. That is why nowadays I play 
- two roles in my real-life game. s
+ two roles in my real-life game.
  
 
                 
