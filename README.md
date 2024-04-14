@@ -111,7 +111,7 @@
 
 43. Meta Tags: HTML <meta> tags provide metadata about the HTML document, such as character encoding (\<meta charset="utf-8">), viewport settings (\<meta name="viewport" content="width=device-width, initial-scale=1.0">), or specifying keywords and description for search engines.
 
-44. Blockquote: An HTML element (\<blockquote>) used to indicate that a section of text is quoted from another source. It is commonly styled to stand out from the rest of the content.
+44. Blockquote: An HTML element (\<blockquote>) indicates that a section of text is quoted from another source. It is commonly styled to stand out from the rest of the content.
 
 45. Abbreviation and Acronym: HTML elements (\<abbr> and \<acronym>) used to mark up abbreviations and acronyms in text. They can include a title attribute to provide the full expansion of the abbreviation or acronym.
 
