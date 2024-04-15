@@ -105,7 +105,7 @@
 
 ### *40. Whitespace Collapsing:* In HTML, consecutive spaces, tabs, and newline characters are collapsed into a single space when rendered by the browser, except within elements styled with CSS to preserve whitespace.
 
-### 41. Escape Sequences: Special sequences of characters used to represent reserved characters or non-printable characters within HTML, such as &nbsp; for a non-breaking space or &quot; for a double quote.
+### *41. Escape Sequences:* Special sequences of characters used to represent reserved characters or non-printable characters within HTML, such as &nbsp; for a non-breaking space or &quot; for a double quote.
 
 42. inline Frames (iframes): An HTML element (<iframe>) used to embed another HTML document within the current document. This is commonly used for embedding videos, maps, or other external content.
 
