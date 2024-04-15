@@ -115,7 +115,7 @@
 
 *45. Abbreviation and Acronym:* HTML elements (\<abbr> and \<acronym>) used to mark up abbreviations and acronyms in text. They can include a title attribute to provide the full expansion of the abbreviation or acronym.
 
-*46. Semantic Elements for Time:* HTML5 introduced elements like \<time> for marking up dates, times, or durations in a machine-readable format, enhancing accessibility and search engine understanding.
+### *46. Semantic Elements for Time:* HTML5 introduced elements like \<time> for marking up dates, times, or durations in a machine-readable format, enhancing accessibility and search engine understanding.
 
 ### *47. Web Standards:* Guidelines and specifications set by organizations like the W3C to ensure interoperability and compatibility among web technologies. Adhering to web standards promotes consistency and accessibility in web development.
 
