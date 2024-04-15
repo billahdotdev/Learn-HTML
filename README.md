@@ -117,7 +117,7 @@
 
 *46. Semantic Elements for Time:* HTML5 introduced elements like \<time> for marking up dates, times, or durations in a machine-readable format, enhancing accessibility and search engine understanding.
 
-47. Web Standards: Guidelines and specifications set by organizations like the W3C to ensure interoperability and compatibility among web technologies. Adhering to web standards promotes consistency and accessibility in web development.
+*47. Web Standards:* Guidelines and specifications set by organizations like the W3C to ensure interoperability and compatibility among web technologies. Adhering to web standards promotes consistency and accessibility in web development.
 
 
 # Let's Examine an HTML Code: 
