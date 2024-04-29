@@ -330,9 +330,7 @@
                 
                 </html>
 
-# test the  
 
-<p style="color: red; font-size: 16px; font-weight: bold;">This is a paragraph with inline styling.</p>
 
  
  
