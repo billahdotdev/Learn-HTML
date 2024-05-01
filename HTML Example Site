@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>HTML Website Example</title>
+  </head>
+  <body>
+    <header>
+      <h1>Welcome to My Example Website</h1>
+      <nav>
+        <ul>
+          <li><a href="#home">Home</a></li>
+          <li><a href="#about">About</a></li>
+          <li><a href="#services">Services</a></li>
+          <li><a href="#portfolio">Portfolio</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <section id="home">
+        <h2>Home</h2>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis
+          dignissim tellus vel turpis dignissim, a commodo enim dignissim. In
+          eget commodo ante. Nullam ut turpis quis ex efficitur placerat.
+        </p>
+        <p>
+          Integer lacinia, enim sed tincidunt efficitur, nisl leo tristique
+          metus, non congue justo tortor at ex. Nulla facilisi. Phasellus vitae
+          arcu neque. Suspendisse potenti.
+        </p>
+      </section>
+
+      <section id="about">
+        <h2>About</h2>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ac
+          sodales leo. Curabitur consequat justo at sapien pharetra, nec
+          fermentum turpis fermentum.
+        </p>
+        <p>
+          Quisque ultrices ipsum eu purus tincidunt, id tempus nunc facilisis.
+          Nulla nec elit in mauris efficitur mollis at at ex. Nullam at neque ut
+          mi placerat malesuada.
+        </p>
+      </section>
+
+      <section id="services">
+        <h2>Services</h2>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum
+          dignissim, mauris sit amet cursus blandit, justo ipsum dictum mauris,
+          nec lacinia velit dolor sit amet felis.
+        </p>
+        <p>
+          Nullam eget urna quis ex placerat pharetra. Curabitur vitae felis quis
+          ex congue ullamcorper. Vestibulum nec dolor ultrices, blandit orci
+          vel, commodo sem.
+        </p>
+      </section>
+
+      <section id="portfolio">
+        <h2>Portfolio</h2>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas
+          lobortis odio nec sapien facilisis, at ullamcorper nisi tempus.
+        </p>
+        <p>
+          Donec blandit massa at tellus malesuada, in faucibus urna vulputate.
+          Integer rhoncus urna sit amet elit ultrices, a sollicitudin nisl
+          lobortis.
+        </p>
+      </section>
+
+      <section id="contact">
+        <h2>Contact</h2>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed faucibus
+          augue quis mauris condimentum, vel congue mauris dapibus.
+        </p>
+        <p>
+          Integer eget lacus vitae justo commodo consectetur. Pellentesque
+          habitant morbi tristique senectus et netus et malesuada fames ac
+          turpis egestas.
+        </p>
+        <p>You can contact me using the following details:</p>
+        <ul>
+          <li>Email: billah.dev</li>
+          <li>Phone: 0088-017-134***9</li>
+        </ul>
+      </section>
+    </main>
+
+    <footer>
+      <p>&copy; 2024 My Example Website. All rights reserved.</p>
+    </footer>
+  </body>
+</html>
