@@ -120,7 +120,7 @@
 ### *47. Web Standards:* Guidelines and specifications set by organizations like the W3C to ensure interoperability and compatibility among web technologies. Adhering to web standards promotes consistency and accessibility in web development.
 
 
-# Let's Examine an HTML Code: 
+# Let's Examine an HTML Code:   
 
                 <!DOCTYPE html> <!-- Declares the document type -->
                 <html lang="en"> <!-- Specifies the language of the document -->
