@@ -121,13 +121,13 @@
 ### *47. Web Standards:* Guidelines and specifications set by organizations like the W3C to ensure interoperability and compatibility among web technologies. Adhering to web standards promotes consistency and accessibility in web development.
 
 # Important Elements:
-1. <!DOCTYPE html>: Tells the browser the document type (HTML5).
+1. `<!DOCTYPE html>`: Tells the browser the document type (HTML5).
 
-2. <html>: The root element of an HTML page.
+2. `<html>`: The root element of an HTML page.
 
-3. <head>: Contains metadata (data about data) like the title, character encoding, and links to stylesheets or scripts.
+3. `<head>`: Contains metadata (data about data) like the title, character encoding, and links to stylesheets or scripts.
 
-4. <body>: Contains the content of the webpage (headings, paragraphs, images, etc.).
+4. `<body`>: Contains the content of the webpage (headings, paragraphs, images, etc.).
 
 # HTML Tags and Elements
 An HTML element consists of a start tag, content, and an end tag. Here's an example of a simple element:
