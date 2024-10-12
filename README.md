@@ -135,9 +135,11 @@ An HTML element consists of a start tag, content, and an end tag. Here's an exam
     <p>This is a paragraph.</p>
 
 In this case:
-    • `<p>` is the start tag.
-    • `</p>` is the end tag.
-    • This is a paragraph. is the content.
+  • `<p>` is the start tag.
+  
+  • `</p>` is the end tag.
+  
+  • This is a paragraph. is the content.
 
 
 ### Self-Closing Tags
