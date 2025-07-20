@@ -364,7 +364,7 @@ The <img> tag is self-closing because it doesn't contain any content, just attri
                 
                 </html>
 
-(be continued...) 
+be continued...
     
   
 
