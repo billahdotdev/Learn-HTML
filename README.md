@@ -407,6 +407,8 @@ lang
 Makes any element editable directly in the browser.
 
     <div contenteditable="true">You can edit this text!</div>
+
+Great for building simple editors or admin tools.
  
 
                 
