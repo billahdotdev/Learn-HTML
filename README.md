@@ -449,4 +449,10 @@ Essential when displaying code, symbols, or typographic content.
 
 Group form fields and label them semantically.
 
+    <fieldset>
+      <legend>Contact Info</legend>
+      <label>Name: <input type="text"></label>
+      <label>Email: <input type="email"></label>
+    </fieldset>
+
 
