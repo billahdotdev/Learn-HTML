@@ -424,23 +424,23 @@ Can be toggled using JavaScript.
 
 ## 5. HTML Entity Reference Table
 
-&lt;   = <
-
-&gt;   = >
-
-&amp;  = &
-
-
-
-&copy; = ©
-
-&reg;  = ®
-
-&trade; = ™
-
-&hellip; = …
-
-&mdash; = —
+    &lt;   = <
+    
+    &gt;   = >
+    
+    &amp;  = &
+    
+    &nbsp; = (non-breaking space)
+    
+    &copy; = ©
+    
+    &reg;  = ®
+    
+    &trade; = ™
+    
+    &hellip; = …
+    
+    &mdash; = —
 
 
 Essential when displaying code, symbols, or typographic content.
