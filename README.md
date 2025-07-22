@@ -467,3 +467,6 @@ Connects labels to input fields for better UX and accessibility.
     <input type="email" id="email">
 
 Clicking the label focuses the input.
+
+
+## 8. Autofocus, Autocomplete, and Placeholder
