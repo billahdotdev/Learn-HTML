@@ -447,4 +447,6 @@ Essential when displaying code, symbols, or typographic content.
 
 ## 6. Fieldset and Legend
 
+Group form fields and label them semantically.
+
 
