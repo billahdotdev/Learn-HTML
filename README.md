@@ -465,3 +465,5 @@ Connects labels to input fields for better UX and accessibility.
 
     <label for="email">Email:</label>
     <input type="email" id="email">
+
+Clicking the label focuses the input.
