@@ -420,3 +420,8 @@ Great for building simple editors or admin tools.
     <p hidden>This won't be visible.</p>
 
 Can be toggled using JavaScript.
+
+
+## 5. HTML Entity Reference Table
+
+
