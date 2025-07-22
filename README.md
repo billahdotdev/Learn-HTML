@@ -402,8 +402,7 @@ lang
     <p id="info" class="highlight" title="Tooltip here">Hover me</p>
   
 
-
-
+## 3. Contenteditable
 
  
  
