@@ -507,3 +507,5 @@ Introduce aria-label, aria-hidden, role, etc.
 
 Good for SEO and accessibility.
 
+
+## 11. Noscript Tag
