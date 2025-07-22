@@ -475,3 +475,11 @@ Enhance user experience:
 
     <input type="text" placeholder="Enter your name" autocomplete="on" autofocus>
 
+
+
+placeholder: hint text
+
+autocomplete: auto-fill from browser
+
+autofocus: focus on page load
+
