@@ -404,6 +404,8 @@ lang
 
 ## 3. Contenteditable
 
+Makes any element editable directly in the browser.
+
  
  
 
