@@ -432,6 +432,7 @@ Can be toggled using JavaScript.
 
 &nbsp; = (non-breaking space)
 
+
 &copy; = ©
 
 &reg;  = ®
