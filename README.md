@@ -485,3 +485,10 @@ autofocus: focus on page load
 
 ## 9. HTML Validation Attributes
 
+Client-side input checking:
+
+required
+
+min, max, maxlength
+
+pattern
