@@ -459,3 +459,5 @@ Improves accessibility and grouping.
 
 
 ## 7. Label for Attribute Best Practice
+
+Connects labels to input fields for better UX and accessibility.
