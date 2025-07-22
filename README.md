@@ -500,3 +500,5 @@ HTML forms can validate input without JavaScript.
 
 
 ## 10. Accessible Forms Using <label> + ARIA
+
+Introduce aria-label, aria-hidden, role, etc.
