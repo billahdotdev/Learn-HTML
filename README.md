@@ -417,3 +417,4 @@ Great for building simple editors or admin tools.
  Hides the element from the page (but still in the DOM).   
 
 
+    <p hidden>This won't be visible.</p>
