@@ -482,3 +482,6 @@ autocomplete: auto-fill from browser
 
 autofocus: focus on page load
 
+
+## 9. HTML Validation Attributes
+
