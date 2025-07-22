@@ -470,3 +470,6 @@ Clicking the label focuses the input.
 
 
 ## 8. Autofocus, Autocomplete, and Placeholder
+
+    <input type="text" placeholder="Enter your name" autocomplete="on" autofocus>
+
