@@ -375,7 +375,7 @@ Used to store extra information on elements without using extra classes or IDs.
 Useful in JavaScript to store and retrieve data without polluting classes or IDs.
 
 
-
+## 2. HTML Global Attributes
 
 be continued...
     
