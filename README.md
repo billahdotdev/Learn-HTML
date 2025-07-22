@@ -372,7 +372,7 @@ Used to store extra information on elements without using extra classes or IDs.
 
     <div data-user-id="12345" data-role="admin">John Doe</div>
 
-> Useful in JavaScript to store and retrieve data without polluting classes or IDs.
+Useful in JavaScript to store and retrieve data without polluting classes or IDs.
 
 
 
