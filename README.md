@@ -414,6 +414,6 @@ Great for building simple editors or admin tools.
                 
 ## 4. Hidden Attribute
 
-    
+ Hides the element from the page (but still in the DOM).   
 
 
