@@ -443,3 +443,6 @@ Can be toggled using JavaScript.
 &mdash; = —
 
 
+Essential when displaying code, symbols, or typographic content.
+
+
