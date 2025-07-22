@@ -455,4 +455,7 @@ Group form fields and label them semantically.
       <label>Email: <input type="email"></label>
     </fieldset>
 
+Improves accessibility and grouping.
+
+
 
