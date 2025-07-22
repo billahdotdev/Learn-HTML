@@ -377,9 +377,27 @@ Useful in JavaScript to store and retrieve data without polluting classes or IDs
 
 ## 2. HTML Global Attributes
 
+Attributes you can use on any HTML element:
+
+id
+
+class
+
+style
+
+title (tooltip text)
+
+hidden
+
+tabindex
+
+draggable
+
+contenteditable
+
+lang
 
 
-be continued...
     
   
 
