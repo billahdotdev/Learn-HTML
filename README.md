@@ -505,3 +505,5 @@ Introduce aria-label, aria-hidden, role, etc.
 
     <input type="text" aria-label="Search term">
 
+Good for SEO and accessibility.
+
