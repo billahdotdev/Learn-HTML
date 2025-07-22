@@ -492,3 +492,6 @@ required
 min, max, maxlength
 
 pattern
+
+
+      <input type="text" required pattern="[A-Za-z]{3,}">
