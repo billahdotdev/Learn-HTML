@@ -516,3 +516,16 @@ Provides fallback content for users with JavaScript disabled.
       <p>Please enable JavaScript to use this website properly.</p>
     </noscript>
 Useful when your site relies heavily on JavaScript functionality.
+
+
+## 12. <template> Element
+Holds HTML that isn’t rendered immediately, but can be cloned and used later with JavaScript.
+
+
+    <template id="card-template">
+      <div class="card">
+        <h2></h2>
+        <p></p>
+      </div>
+    </template>
+Powerful for dynamic rendering via JavaScript (like creating reusable components).
