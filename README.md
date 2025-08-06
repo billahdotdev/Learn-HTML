@@ -529,3 +529,15 @@ Holds HTML that isn’t rendered immediately, but can be cloned and used later w
       </div>
     </template>
 Powerful for dynamic rendering via JavaScript (like creating reusable components).
+
+
+## 13. <details> and <summary>
+Creates a collapsible/expandable section without JavaScript.
+
+
+    <details>
+      <summary>More Info</summary>
+      <p>This is the hidden content revealed on click.</p>
+    </details>
+
+Great for FAQs, toggle sections, and accessibility.
