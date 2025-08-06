@@ -519,6 +519,7 @@ Useful when your site relies heavily on JavaScript functionality.
 
 
 ## 12. <template> Element
+
 Holds HTML that isn’t rendered immediately, but can be cloned and used later with JavaScript.
 
 
@@ -528,6 +529,7 @@ Holds HTML that isn’t rendered immediately, but can be cloned and used later w
         <p></p>
       </div>
     </template>
+    
 Powerful for dynamic rendering via JavaScript (like creating reusable components).
 
 
