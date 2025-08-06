@@ -533,7 +533,7 @@ Holds HTML that isn’t rendered immediately, but can be cloned and used later w
 Powerful for dynamic rendering via JavaScript (like creating reusable components).
 
 
-## 13. <details> and <summary>
+## 13. <details> and <summary>Element
 
 Creates a collapsible/expandable section without JavaScript.
 
