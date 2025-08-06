@@ -153,8 +153,6 @@ The <img> tag is self-closing because it doesn't contain any content, just attri
 
 
 
-
-
 # Let's Examine an HTML Code: Just try to read all Comments <!---XYZ--->
 
                 <!DOCTYPE html> <!-- Declares the document type -->
