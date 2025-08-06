@@ -517,11 +517,11 @@ Provides fallback content for users with JavaScript disabled.
     </noscript>
 Useful when your site relies heavily on JavaScript functionality.
 
+
 ## 12. <template> Element
 
 
 Holds HTML that isn’t rendered immediately but can be cloned via JavaScript.
-
 
 
     <template id="card-template">
