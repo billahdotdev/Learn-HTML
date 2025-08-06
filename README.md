@@ -520,7 +520,7 @@ Useful when your site relies heavily on JavaScript functionality.
 ## 12. <template> Element
 
 
-       Holds HTML that isn’t rendered immediately but can be cloned via JavaScript.
+Holds HTML that isn’t rendered immediately but can be cloned via JavaScript.
 
 
 
