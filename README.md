@@ -508,3 +508,11 @@ Good for SEO and accessibility.
 
 
 ## 11. Noscript Tag
+
+Provides fallback content for users with JavaScript disabled.
+
+
+    <noscript>
+      <p>Please enable JavaScript to use this website properly.</p>
+    </noscript>
+Useful when your site relies heavily on JavaScript functionality.
