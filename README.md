@@ -6,7 +6,7 @@
 ### HTML is like the ABCs of web development. It's the basic language you need to create web pages. Without it, you can't even start building a website. So, if you're serious about becoming a web developer, learning HTML is a must.
 
 
-# What does HTML code look like?     
+# What does HTML code look like?      
 
                       <!DOCTYPE html>
                       <html lang="en">
