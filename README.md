@@ -363,7 +363,7 @@ The <img> tag is self-closing because it doesn't contain any content, just attri
                 
                 </html>
 
-# ADVANCED & DEEPER HTML TOPICS
+# ADVANCED & DEEPER HTML TOPICS 
 
 ## 1. Custom Data Attributes (data-*)
 
