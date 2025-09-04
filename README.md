@@ -532,6 +532,6 @@ Holds HTML that isn’t rendered immediately but can be cloned via JavaScript.
     </template>
 
 
-Great for dynamic UIs.
+Great for dynamic UIs. 
 
 
